@@ -1,0 +1,3 @@
+# Tailwind CSS Gradient Bug
+
+This repository demonstrates a subtle bug in Tailwind CSS gradient application where the gradient is not visible due to similar 'from' and 'to' colors or typos in class names.  The solution provides a corrected version using distinct colors and proper class names.  This example highlights the importance of thorough color selection and careful attention to detail when using Tailwind's utility classes.
